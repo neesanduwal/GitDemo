@@ -1,3 +1,3 @@
 # GitDemo
 Learning GIT<br>
-Author-NishanDuwal
+Author-Neesan
